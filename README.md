@@ -1,5 +1,3 @@
-# techie-013-DigitalFootprints-AdobeDesignathon
-UI/UX prototype of the Digital Footprints app made during Adobe Designathon at IIT Delhi.
 # 🌐 Digital Footprints – Adobe Designathon (IIT Delhi)
 
 > 🎨 A creative UX prototype designed during the **Adobe Designathon** at **IIT Delhi**, focused on preserving and celebrating your digital legacy.
