@@ -8,7 +8,7 @@ UI/UX prototype of the Digital Footprints app made during Adobe Designathon at I
 
 ## 🔗 Figma Prototype
 
-[👉 View the Figma Prototype](https://www.figma.com/design/0qKqRJC25oUPN38LgylPJL/Digital-Footprints-%E2%80%93-Adobe-Designathon?node-id=0-1&t=fgy3OeiuLT1h6enb-1)
+[👉 View the Figma Prototype](https://www.figma.com/proto/0qKqRJC25oUPN38LgylPJL/Digital-Footprints-%E2%80%93-Adobe-Designathon?node-id=0-1&t=gsUae7JZavp0z1wn-1)
 
 ---
 
@@ -62,7 +62,6 @@ A supporting PowerPoint presentation for the project is available for demo, pitc
 📥 [Download the Presentation (PDF)](https://drive.google.com/file/d/1lSUUriD0x8_veGL8PLD0HGapy2kLasBl/view?usp=sharing)
 
 ---
-
 ## 📄 License
 
 This project is shared for educational and showcase purposes only.
