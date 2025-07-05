@@ -60,6 +60,25 @@ A supporting PowerPoint presentation for the project is available for demo, pitc
 📥 [Download the Presentation (PDF)](https://drive.google.com/file/d/1lSUUriD0x8_veGL8PLD0HGapy2kLasBl/view?usp=sharing)
 
 ---
+
+## ✨ Digital Footprints – UI/UX Preview
+
+Here’s a glimpse of the prototype built during Adobe Designathon:
+
+### 🔹 Welcome Screen
+![Welcome](./Screenshots/Welcome.jpg)
+
+### 🔹 Home Page
+![Home](./Screenshots/Home%20page.jpg)
+
+### 🔹 Sign In Page
+![Sign In](./Screenshots/Sign%20In%20page.jpg)
+
+### 🔹 Echo AI
+![Echo AI](./Screenshots/Echo%20AI.jpg)
+
+👉 [View full design on Figma](https://www.figma.com/proto/0qKqRJC25oUPN38LgylPJL/Digital-Footprints-%E2%80%93-Adobe-Designathon?node-id=0-1&t=gsUae7JZavp0z1wn-1)
+
 ## 📄 License
 
 This project is shared for educational and showcase purposes only.
