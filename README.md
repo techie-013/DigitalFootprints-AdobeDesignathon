@@ -65,17 +65,16 @@ A supporting PowerPoint presentation for the project is available for demo, pitc
 
 Here’s a glimpse of the prototype built during Adobe Designathon:
 
-### 🔹 Welcome Screen
-![Welcome](./Screenshots/Welcome.jpg)
+<p float="left">
+  <img src="./Screenshots/Welcome.jpg" alt="Welcome Screen" width="300" />
+  <img src="./Screenshots/Home%20page.jpg" alt="Home Page" width="300" />
+</p>
 
-### 🔹 Home Page
-![Home](./Screenshots/Home%20page.jpg)
+<p float="left">
+  <img src="./Screenshots/Moments%20Hub.jpg" alt="Moments Hub" width="300" />
+  <img src="./Screenshots/Echo%20AI.jpg" alt="Echo AI" width="300" />
+</p>
 
-### 🔹 Sign In Page
-![Sign In](./Screenshots/Sign%20In%20page.jpg)
-
-### 🔹 Echo AI
-![Echo AI](./Screenshots/Echo%20AI.jpg)
 
 👉 [View full design on Figma](https://www.figma.com/proto/0qKqRJC25oUPN38LgylPJL/Digital-Footprints-%E2%80%93-Adobe-Designathon?node-id=0-1&t=gsUae7JZavp0z1wn-1)
 
